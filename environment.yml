@@ -1,0 +1,34 @@
+name: CursoUFBA
+channels:
+    - ioos
+dependencies:
+  - basemap
+  - cartopy
+  - ctd
+  - descartes
+  - fiona
+  - folium
+  - gdal
+  - geojson
+  - geojsonio
+  - geopandas
+  - gsw
+  - jupyter
+  - iris
+  - matplotlib
+  - numpy
+  - oceans
+  - oct2py
+  - pandas
+  - pip
+  - pyproj
+  - pywafo
+  - rasterio
+  - requests
+  - scikit-learn
+  - scipy
+  - seaborn
+  - shapely
+  - statsmodels
+  - sympy
+  - xlrd
